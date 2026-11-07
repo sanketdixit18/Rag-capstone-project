@@ -1,0 +1,22 @@
+
+# LLM and RAG framework
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+
+# Document processing
+pypdf
+beautifulsoup4
+requests
+
+# Frontend
+streamlit
+
+# Environment variables
+python-dotenv
+
+# Backend API
+fastapi
+uvicorn[standard]
